@@ -1,4 +1,4 @@
-package com.hongdroid.googleloginexample;
+package com.example.googlelogintest;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
